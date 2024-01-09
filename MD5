@@ -1,0 +1,9 @@
+bb3f819188d4d0c26e861431513c983e *DESCRIPTION
+266a9de2042252aa3de19ef2f28e9495 *NAMESPACE
+66383c911742ceab39d8bbcb0f8b723d *R/ExampleTradeData.R
+5dfe73bda3952edc4ca3e49288eb9824 *R/iopspackage2.0.R
+29ec65ecf20cef8cf32c0cd6a224dbba *data/ExampleTradeData.rda
+3cf52852631c7fdad3e6021a935d2bec *inst/extdata/country_codes_V202001.csv
+5e58892039f3ab1ac05f011034241cb2 *inst/extdata/country_codes_V202201.csv
+378ff7ad5ca79d06446d77dfe78ead25 *man/ExampleTradeData.Rd
+cd7a45f39a125e05cb3cba2c5850e1df *man/IOPS.Rd
